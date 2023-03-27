@@ -7,8 +7,10 @@ let userQuestion = 'Will my neighbour get laid tonight?';
 
 console.log(`${userName}, you have asked Fupa the Fortune Teller: ${userQuestion}`);
 
+
 let randomNumber = Math.floor(Math.random() * 8);
 // random number x 8 and rounded down to the nearest whole number.
+
 
 let eightBall = '';
 
