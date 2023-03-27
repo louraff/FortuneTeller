@@ -45,4 +45,4 @@ switch (randomNumber){
     break;
 }
 
-console.log(`Fupa the Fortune Teller says: ${eightBall}`);git 
+console.log(`Fupa the Fortune Teller says: ${eightBall}`);
