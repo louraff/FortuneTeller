@@ -6,6 +6,7 @@ Table of Contents
 - [Project Description](#project-description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Acknowledgments](acknowledgments)
 
 Technologies Used
 ---
@@ -47,4 +48,6 @@ The program will prompt the user to enter their name and ask a question about th
 
 There are two versions of the program: eightball-if-else.js and eightball-switch.js. The first version uses if...else statements to select a response based on the random number, while the second version uses a switch statement.
 
-
+Acknowledgments
+---
+This code is based on a project from Codecademy's Full-Stack Engineer Career Path.
